@@ -1,0 +1,6 @@
+{
+  "name": "SafeTrail AI",
+  "description": "Smart tourist safety companion providing live risk monitoring, digital ID verification, and interactive emergency response.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}
